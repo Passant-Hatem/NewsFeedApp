@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Feed App</string>
+    <string name="web_prefix">http://</string>
+    <string name="no_connection">No data available ,please make sure to have stable internet connection or turn off airplane mode</string>
+    <string name="no_data">It seems like no new stories today..</string>
+    <string name="refresh">Refresh</string>
+</resources>
